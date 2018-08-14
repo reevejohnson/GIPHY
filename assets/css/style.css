@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/Disney-Background.jpg");
+}
+
+.disney-button {
+    background-color: #008CBA;
+    color: white;
+    border-radius: 8px;
+    padding: 12px 28px;
+    margin: 5px;
+}
+
+#gif-column {
+    float: left;
+    padding: 20px;
+    color: white;
+}
+
+.container {
+    float: right;
+    border: 1px solid black;
+    padding: 10px;
+    width: 25%;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'WaltographRegular'; 
+    font-weight: normal; 
+    font-style: normal;
+    background-color: #008CBA;
+}
